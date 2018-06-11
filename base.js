@@ -614,3 +614,6 @@ function startMove(obj,json,fnEnd){
         }
     },30);
 }*/
+function test(){
+	alert(1)
+}
